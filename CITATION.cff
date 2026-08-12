@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use or refer to this software, please cite the associated article."
+title: "EBSDE: Enhanced Bernstain-Search Differential Evolution"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Zamani
+    given-names: Hoda
+  - family-names: Nadimi-Shahraki
+    given-names: Mohammad H.
+  - family-names: Taghian
+    given-names: Shokooh
+  - family-names: Banaie-Dezfouli
+    given-names: Mahdis
+repository-code: "https://github.com/MahdisBD/EBSDE-MATLAB"
+preferred-citation:
+  type: article
+  title: "Enhancement of Bernstain-Search Differential Evolution Algorithm to Solve Constrained Engineering Problems"
+  authors:
+    - family-names: Zamani
+      given-names: Hoda
+    - family-names: Nadimi-Shahraki
+      given-names: Mohammad H.
+    - family-names: Taghian
+      given-names: Shokooh
+    - family-names: Banaie-Dezfouli
+      given-names: Mahdis
+  journal: "International Journal of Computer Science Engineering"
+  volume: 9
+  issue: 6
+  start: 386
+  end: 396
+  year: 2020

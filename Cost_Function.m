@@ -10,12 +10,8 @@
 %                         DOI: 10.13140/RG.2.2.16902.40004
 %            -----------------------------------------------------------
 %                    Source codes developed in MATLAB R2016b
-%                                Programmers:
 %                 Hoda Zamani, Mohammad-Hossein Nadimi-Shahraki
 %                E-Mail: zamanie_hoda@ymail.com,nadimi@ieee.org
-%           -----------------------------------------------------------
-%  Homepage: https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en
-%  Homepage: https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en
 % ========================================================================
 function Cost = Cost_Function(Sol)
 Cost = 1.10471 * Sol(1)^2 * Sol(2)+ 0.04811 * Sol(3) * Sol(4)*( 14 + Sol(2));  

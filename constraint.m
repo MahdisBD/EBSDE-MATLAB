@@ -10,12 +10,8 @@
 %                         DOI: 10.13140/RG.2.2.16902.40004
 %            -----------------------------------------------------------
 %                    Source codes developed in MATLAB R2016b
-%                                Programmers:
 %                 Hoda Zamani, Mohammad-Hossein Nadimi-Shahraki
 %                E-Mail: zamanie_hoda@ymail.com,nadimi@ieee.org
-%           -----------------------------------------------------------
-%  Homepage: https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en
-%  Homepage: https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en
 % ========================================================================
 function [Tmp1,Tmp2] = constraint(Sol)
 

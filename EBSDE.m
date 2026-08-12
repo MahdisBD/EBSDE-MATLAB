@@ -6,7 +6,7 @@
 %                   Shokooh Taghian, Mahdis Banaie-Dezfouli
 %
 %         International Journal of Computer Science Engineering (IJCSE)
-%                   ISSN : 2319-7323   Vol. 9 No. 6 Nov-Dec 2020, 386-396
+%                   ISSN: 2319-7323   Vol. 9 No. 6 Nov-Dec 2020, 386-396
 %                         DOI: 10.13140/RG.2.2.16902.40004
 %            -----------------------------------------------------------
 %                    Source codes developed in MATLAB R2016b
